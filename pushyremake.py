@@ -27,7 +27,7 @@ Pacotes = [codecs.decode("53414d5090d91d4d611e700a465b00","hex_codec"),#p
 
 
 print("\033[1;32;40m ###############Pushy###############\n")
-print("XALBADOR MENGIRIM: %s e PAKET: %s"%(orgip,port))
+print("Pushy MENGIRIM: %s e PAKET: %s"%(orgip,port))
 
 print("###############AWAS KAU CURI COK###############")
             
